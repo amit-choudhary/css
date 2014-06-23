@@ -1,0 +1,83 @@
+.body{
+width:1000px;
+margin:0 auto;
+}
+.top-section{
+background-color:#b2e7ff;
+border-bottom:2px solid #0ab1ff;
+width:1000px;
+text-align: center;
+
+}
+.top{
+font-family: Tahoma;
+font-size:24px;
+color:black;
+padding:20px;
+
+}
+.section{
+display: table;
+width: 100%;
+}
+.left-section
+{
+width:230px;
+background-color:#0ab1ff;
+padding:25px 10px;
+background-image:url(exercise2-bg.gif);
+display: table-cell;
+}
+.left{
+font-family: Tahoma;
+font-size:18px;
+color:black;
+}
+.left-section p{
+font-family: Tahoma;
+font-size:12px;
+color:black
+}
+.links{
+margin-left:0;
+padding-left:0;
+list-style-position:inside;
+}
+.link{
+color:white;
+padding-top:18px;
+}
+.list a{
+font-family: Tahoma;
+font-size:14px;
+color:white;
+text-decoration:none;
+}
+.right-section{
+background-color:#ededed;
+padding:20px;
+width:710px;
+display: table-cell;
+}
+.right{
+font-family: Tahoma;
+font-size:24px;
+color:black;
+}
+.right-section p{
+font-family: Tahoma;
+font-size:14px;
+color:#802525;
+}
+.bottom-section{
+background-color:#3cff78;
+border-bottom:2px solid #0ab1ff;
+clear:both;
+text-align:center;
+}
+.bottom{
+font-family: Tahoma;
+font-size:24px;
+color:black;
+padding:20px;
+}
